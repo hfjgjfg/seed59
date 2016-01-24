@@ -218,6 +218,7 @@ function create_config( )
     "broadcast",
     "download_media",
     "invite",
+    "xy",
     "all",
     "leave_ban"
     },
@@ -230,11 +231,6 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com00
 
 Admins
-@mohammad [Founder]
-@mohammad [Developer]
-@mehdi [Developer]
-@mohammad [Manager]
-
 Special thanks to
 awkward_potato
 Siyanew
